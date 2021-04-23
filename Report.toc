@@ -1,0 +1,9 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Signed Contributions}{3}{section.1}%
+\contentsline {section}{\numberline {2}Top Five Contributions}{3}{section.2}%
+\contentsline {section}{\numberline {3}Nine Aspects Pages}{3}{section.3}%
+\contentsline {section}{\numberline {4}Abstract}{3}{section.4}%
+\contentsline {section}{\numberline {5}Team Process and Project Planning}{3}{section.5}%
+\contentsline {section}{\numberline {6}Individual Contributions}{3}{section.6}%
+\contentsline {section}{\numberline {7}Software, Tools, and Development}{3}{section.7}%
+\contentsline {section}{\numberline {8}Technical Content}{3}{section.8}%
